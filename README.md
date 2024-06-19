@@ -1,2 +1,3 @@
 # EQ3Band
-Simple EQ 3 band using JUCE Framework.
+Simple EQ 3 band using JUCE Framework. 
+in progress...
